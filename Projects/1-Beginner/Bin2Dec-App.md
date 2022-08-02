@@ -1,5 +1,7 @@
 # Bin2Dec
 
+https://github.com/thonpair/Bin2Dec
+
 **Tier:** 1-Beginner
 
 Binary is the number system all digital computers are based on.
